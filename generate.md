@@ -1,7 +1,7 @@
 ---
 csl: apa.csl
 bibliography: lwl.bib
-...
+---
 
 Command to generate the html file from the markdown:
 
